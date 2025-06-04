@@ -35,8 +35,8 @@ Make sure you have Docker installed. Then:
 1. **Clone the repo**:
 
 ```bash
-git clone https://github.com/your-username/docker-hello-world.git
-cd docker-hello-world
+git clone https://github.com/Lkz30/simple_docker
+cd simple_docker
 ```
 
 2. **Build the image**:
