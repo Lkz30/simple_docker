@@ -80,4 +80,4 @@ This simple example proves that:
 
 ## 📫 Contact
 
-Created by **Luis Cano** – feel free to connect on [LinkedIn](https://www.linkedin.com) or reach out if you're exploring Docker and AI for health and pathology.
+Created by **Luis Cano** – feel free to connect on [LinkedIn](https://www.linkedin.com/in/luiscanoayestas) or reach out if you're exploring Docker and AI for health and pathology.
